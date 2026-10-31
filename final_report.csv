@@ -1,0 +1,12 @@
+PatientID,Age,Gender,Location,drug_group,efficacy_score,adverse_events
+PT001,45.0,M,Pune,Treatment,85,
+PT003,34.0,M,Pune,Treatment,78,
+PT004,29.0,F,Pune,Treatment,92,Fatigue
+PT008,38.0,F,Pune,Treatment,81,
+PT010,27.0,F,Pune,Treatment,75,
+PT016,39.0,F,Pune,Treatment,83,
+PT018,28.0,F,Pune,Treatment,77,Nausea
+PT021,50.0,M,Pune,Treatment,91,Headache
+PT023,42.0,M,Pune,Treatment,84,
+PT025,59.0,M,Pune,Treatment,79,
+PT030,35.0,F,Pune,Treatment,76,Fatigue
